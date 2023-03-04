@@ -1,0 +1,17 @@
+{
+  "name": "node_bot_and_trigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "navetacandra <naveta.cand@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "firebase": "^9.17.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
